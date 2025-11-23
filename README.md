@@ -29,7 +29,7 @@ Open your terminal or command prompt.
 Navigate to the folder containing the file.
 
 Run the command:
-python simple_symptom_checker.py
+python Basic_Health_Symptom_Checker.py
 
 # Disclaimer
 This code is for educational purposes only. It is not a medical device and should not be used for actual diagnosis. Always consult a medical professional for health concerns.
