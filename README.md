@@ -20,5 +20,16 @@ No-Fever Path: Asks about stomach pain or fatigue.
 3. Output
 Based on the specific combination of "Yes/No" answers, the program prints a specific assessment string to the console.
 
+## How to Run
+
+Ensure you have Python installed.
+
+Open your terminal or command prompt.
+
+Navigate to the folder containing the file.
+
+Run the command:
+python simple_symptom_checker.py
+
 # Disclaimer
 This code is for educational purposes only. It is not a medical device and should not be used for actual diagnosis. Always consult a medical professional for health concerns.
